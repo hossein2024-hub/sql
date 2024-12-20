@@ -45,8 +45,18 @@ There are several tools online you can use, I'd recommend [Draw.io](https://www.
 
 **HINT:** You do not need to create any data for this prompt. This is a conceptual model only. 
 
+
+**Answer**: <span style="color:green"> **Diagram *Logical Model for Small Bookstore*** </span>
+
+  <img src="./images/Database ER diagram-Bookstore.png" width="600">
+
+
 #### Prompt 2
 We want to create employee shifts, splitting up the day into morning and evening. Add this to the ERD.
+
+**Answer**: <span style="color:green"> **Diagram *Logical Model for Small Bookstore (Employee Shifts Added)*** </span>
+
+  <img src="./images/Database ER diagram-Bookstore(shifts).png" width="600">
 
 #### Prompt 3
 The store wants to keep customer addresses. Propose two architectures for the CUSTOMER_ADDRESS table, one that will retain changes, and another that will overwrite. Which is type 1, which is type 2? 
@@ -55,9 +65,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 
 ```
 Your answer...
-```
 
-***
+```
+  <img src="./images/Database ER diagram (addres_types).png" width="600">
 
 ## Section 2:
 You can start this section following *session 4*.
